@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_fsm_deterministic_behav/xsimk.exe -simmode gui -wdb tb_fsm_deterministic_behav.wdb -simrunnum 0 -socket 65328
+Design successfully loaded
+Design Loading Memory Usage: 10764 KB (Peak: 10764 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 11768 KB (Peak: 11768 KB)
+Simulation CPU Usage: 139 ms
